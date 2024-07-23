@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+.header{
+  background-color: rgb(28, 28, 57);
+  font-family: "Roboto Condensed";
+  color: whitesmoke;
+  padding: 50px;
+  h1{
+    width: 350px;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  p{
+    width: 300px;
+    text-align:start;
+    line-height: 1.2;
+    font-size: small;
+  }
+}
+
+.button{
+  margin-top: 40px;
+  padding: 10px;
+}

@@ -1,0 +1,22 @@
+
+
+
+.features{
+  display: flex;
+  justify-content:space-evenly;
+  align-items:center;
+  padding: 50px 0 0 0;
+
+}
+
+.boxes{
+  width: 100px;
+  img{
+    width:70px;
+  }
+  p{
+    font-size: x-small;
+    font-weight:lighter;
+    color: gray;
+  }
+}
